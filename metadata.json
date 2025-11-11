@@ -1,0 +1,7 @@
+{
+  "name": "Prompt Polisher",
+  "description": "An application to refine and optimize user-submitted prompts for Gemini models. It analyzes the original prompt, suggests improvements, and generates a structured, high-performance prompt.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
